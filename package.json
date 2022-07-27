@@ -1,0 +1,22 @@
+{
+  "name": "simplewebapp",
+  "version": "1.0.0",
+  "description": "This is code for simple web app to test containerization using docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaShinde001/SimpleWebApp.git"
+  },
+  "author": "Aditya Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaShinde001/SimpleWebApp/issues"
+  },
+  "homepage": "https://github.com/AdityaShinde001/SimpleWebApp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
